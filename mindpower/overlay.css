@@ -1,0 +1,154 @@
+.maincolor{
+	background-color: lightgrey;
+}
+
+.navtext{
+	font-family: Play;
+	font-weight: bold;
+	font-size: 130%;
+	color: #1570BF;	
+	transition: width 3s;
+}
+
+.navtext:hover {
+	color: #1a8bed;
+}
+
+.cardtext{
+	font-family: Play;
+	font-size: 130%;
+	font-weight: 600;
+	color: black;	
+}
+
+#mainimage {
+  	background-image: url(images/biuro.jpg);
+  	background-color: #ccccc; 
+}
+
+.navborder {
+	border-right: 1px solid #000;
+}
+
+#sub {
+	line-height: 95%;
+	font-family: "Raleway", fantasy;
+	font-size: 100%;
+	font-weight: bold;
+	color: mediumslateblue;
+}
+
+.bigtext {
+	line-height: 95%;
+	font-family: "Raleway", fantasy;
+	font-size: 400%;
+	font-weight: bold;
+	color: white;
+	text-transform: uppercase;
+	text-shadow: 4px 4px 2px black;
+}
+
+#phototext{
+	position:absolute;
+	top: 310%; 
+	width:98%; 
+	color: white;
+	text-shadow: 5px 5px 2px black;
+	font-family: "Raleway", fantasy;
+	font-size: 90px;
+	background-color: rgba(79, 79, 79, 0.5);
+	padding-left: -80px;
+	text-transform: uppercase;
+
+}
+
+#greyrow{
+	margin-top: -10px;
+	margin-left: -1.7%;
+	min-width: 103.3%;
+	background-color: #404040;
+	top: 200px;
+}
+
+.desctext {
+	font-family: Karma, fantasy;
+	font-size: 120%;
+	color: black;
+}
+
+.imagestyle {
+	max-width:60%;
+	border-radius:20%; 
+	border: 15px double black;
+}
+
+.captext {
+	font-family: "Crimson Text", fantasy;
+	font-size: 160%;
+	color: #0F6CA6;	
+}
+
+.butround {
+	border-radius: 20px 20px 20px 20px;
+}
+
+.imageround{
+	border-radius: 20px 20px 0 0;
+}
+
+.hometext{
+	font-size: 70px;
+	font-family: "Roboto", fantasy;
+	font-weight: normal;
+	color: white;
+}
+
+#contacttext{
+	font-family: "Raleway", fantasy;
+	font-size: 350%;
+	color: white;
+	font-weight: bold;
+	text-shadow: 3px 3px 2px black;	
+}
+
+.dividertop {
+	min-height: 3px; 
+	border-radius: 30%;
+}
+
+.dividermid {
+	margin-top:-8px;
+	width:70%;
+	margin-left:15%;
+	min-height:2px;
+}
+
+.dividerbot {
+	margin-top:-8px;
+	width:30%;
+	margin-left:35%;
+}
+
+.divider-left-1 {
+	margin-top:-8px;
+	width:70%;
+	min-height:2px;
+}
+
+.divider-left-2 {
+	margin-top:-8px;
+	width:30%;
+}
+
+.divider-right-1 {
+	margin-top:-8px;
+	width:70%;
+	min-height:2px;
+	margin-left: 30%;
+}
+
+.divider-right-2 {
+	margin-top:-8px;
+	width:30%;
+	margin-left: 70%;
+}
